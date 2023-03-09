@@ -7,6 +7,8 @@ print("Hello python")
 print(type(5))
 print(type(True))
 print(3 + 5)
+print(sorted({3,4,7,1,9,42,-3,-8,34,55,0,-0,1,-65}))
+
 
 # Messing around 
 
