@@ -18,3 +18,16 @@ joti = PartyAnimal("Jotadé")
 emi.party()
 joti.party()
 emi.party()
+
+# We are going to extend the PartyAnimal class
+
+class PokemonFan(PartyAnimal):
+    pokedex = 0
+    def catch_a_pokemon(self):
+        self.pokedex = self.pokedex + 1
+        self.party()
+        print(self.name, 'has', self.pokedex, 'pokemons in the pokedex')
+
+paco = PokemonFan("Paco")
+paco.party()
+paco.catch_a_pokemon()
