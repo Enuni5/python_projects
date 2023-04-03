@@ -1,3 +1,6 @@
 [submodule "freecodecamp_practice/freecodecamp_projects/Arithmetic_Formatter"]
 	path = freecodecamp_practice/freecodecamp_projects/Arithmetic_Formatter
 	url = https://github.com/Enuni5/boilerplate-arithmetic-formatter.git
+[submodule "freecodecamp_practice/freecodecamp_projects/Time_Calculator"]
+	path = freecodecamp_practice/freecodecamp_projects/Time_Calculator
+	url = https://github.com/Enuni5/boilerplate-time-calculator.git
