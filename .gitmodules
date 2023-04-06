@@ -10,3 +10,6 @@
 [submodule "freecodecamp_practice/freecodecamp_projects/Polygon_Area_Calculator"]
 	path = freecodecamp_practice/freecodecamp_projects/Polygon_Area_Calculator
 	url = https://github.com/Enuni5/boilerplate-polygon-area-calculator.git
+[submodule "freecodecamp_practice/freecodecamp_projects/Probability_Calculator"]
+	path = freecodecamp_practice/freecodecamp_projects/Probability_Calculator
+	url = https://github.com/Enuni5/boilerplate-probability-calculator.git
