@@ -7,3 +7,6 @@
 [submodule "freecodecamp_practice/freecodecamp_projects/Budget_App"]
 	path = freecodecamp_practice/freecodecamp_projects/Budget_App
 	url = https://github.com/Enuni5/boilerplate-budget-app.git
+[submodule "freecodecamp_practice/freecodecamp_projects/Polygon_Area_Calculator"]
+	path = freecodecamp_practice/freecodecamp_projects/Polygon_Area_Calculator
+	url = https://github.com/Enuni5/boilerplate-polygon-area-calculator.git
